@@ -1,0 +1,10 @@
+td{
+    padding: 20px;
+    background-color: aqua;
+    color: red;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
